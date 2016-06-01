@@ -17,3 +17,4 @@ Feature: ng-repeat and $index, $event, $log
     Then I should see "41" in "rank" column in row "6" of "fifa" table
     Then I should see "Poland" in "team" column in row "6" of "fifa" table
     Then I should see "680" in "totalPoints" column in row "6" of "fifa" table
+
